@@ -1,0 +1,14 @@
+{
+    "name": "Maple Syrup Web",
+    "version": "1.0.0",
+    "description": "Package.json for running browser sync",
+    "author": "Maple Syrup Web",
+    "license": "GPL-2.0-or-later",
+    "devDependencies": {
+      "browser-sync": "^2.27.9",
+      "gulp": "^4.0.2"
+    },
+    "dependencies": {
+      "gulp-cli": "^2.3.0"
+    }
+  }
